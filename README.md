@@ -1,2 +1,2 @@
-# CS210_CPP
-C++ Projects
+# CS-210 Programming Languages
+SNHU C++ Projects
